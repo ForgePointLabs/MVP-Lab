@@ -1,8 +1,5 @@
-# Veritus Labs — Early Experiments
+# MVP Lab
 
-A repository for early software experiments, focused prototypes, and recurring-problem research that informed the direction of Veritus Labs.
+A place for early prototypes, product ideas, and software experiments.
 
-**Status:** Experimental archive  
-**Division:** Veritus Labs
-
-Projects here should be treated as explorations rather than announced or released Veritus products.
+Some of the work here helped shape Veritus Labs. Nothing in this repository should be treated as a released product.
